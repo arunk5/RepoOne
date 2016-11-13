@@ -1,0 +1,9 @@
+[
+
+{"PersonID":"001","Age":"21","Gender":"Male","Phone":"9951430290","Address":"Kukatpally,Hyderabd"},
+
+{"PersonID":"002","Age":"22","Gender":"FeMale","Phone":"9849636260","Address":"Moosapet,Hyderabd"},
+{"PersonID":"003","Age":"23","Gender":"Male","Phone":"8886577977","Address":"BHEL,Hyderabd"},
+{"PersonID":"004","Age":"24","Gender":"FeMale","Phone":"9391007509","Address":"DSNR,Hyderabd"},
+{"PersonID":"005","Age":"25","Gender":"Both","Phone":"8008333123","Address":"Nagarjunasagar,Hyderabd"}
+]
